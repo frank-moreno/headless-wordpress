@@ -1,2 +1,2 @@
 # headless-wordpress
-Headless WordPress con React.js
+Headless WordPress with React.js
